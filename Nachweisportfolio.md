@@ -26,6 +26,7 @@ Wir haben hier heute nichts zu schreiben.
 
 Als erstes Beschäftigten wir uns mit dem Auftrag "Welche Zahl erscheint als erstes auf der Konsole?" und wir kamen auf den entschluss das es die Zahl immer 5 ist. Danach schauten wir den rest des auftrages an bei dem es sich um Breackpoint handelt ud wir experimentierten. Nach der Vorschleife wird der Output von verschiedenen zahlen ausgewertet. Es gibt drei verschiedene möglichkeiten um die Ausgabe der verschiedenen Variabeln zu sehen.
 
-[Aufgabe: E1](./Bilder/E1.png)
+![Screenshot: E1](./Bilder/E1.png)
+[Aufgabe: E1](./Template%20_Aufgabe_E1.zip)
 
 ### Tag 7 (04.04.2025)
