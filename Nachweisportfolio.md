@@ -30,3 +30,14 @@ Als erstes Beschäftigten wir uns mit dem Auftrag "Welche Zahl erscheint als ers
 [Aufgabe: E1](./Template%20_Aufgabe_E1.zip)
 
 ### Tag 7 (04.04.2025)
+
+A3 befindet sich in der Zip vom Tag 8.
+
+### Tag 8 (11.04.2025)
+
+Das sind die Temarbeiten I2, A3 und D3.
+[Aufgabe: I2/A3/D3](./Aufgabe_A3_I2_D3.zip)
+
+### Tag 9 (09.05.2025)
+
+Wir haben hier heute nichts zu schreiben.
